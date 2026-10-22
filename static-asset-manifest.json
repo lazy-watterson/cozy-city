@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "assets": {
+    "city_map": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/92c4a4a5-eba2-44e8-a4f0-ab6bca405a6f/background/City_map_1792606809316.webp?t=1792650444878",
+      "name": "City map",
+      "asset_type": "background",
+      "sourceId": "b17c73a5-7af5-43ab-8ca7-b45b32869016",
+      "metadata": {
+        "width": 1360,
+        "height": 768,
+        "format": "webp"
+      }
+    },
+    "study_room": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/92c4a4a5-eba2-44e8-a4f0-ab6bca405a6f/background/Study_room_1792607083851.webp?t=1792650451027",
+      "name": "Study room",
+      "asset_type": "background",
+      "sourceId": "8140efdb-e46b-4e65-b1d9-da6a46da456e",
+      "metadata": {
+        "width": 1360,
+        "height": 768,
+        "format": "webp"
+      }
+    },
+    "caf": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/92c4a4a5-eba2-44e8-a4f0-ab6bca405a6f/background/Caf__1792607360259.webp?t=1792650453177",
+      "name": "Cafè",
+      "asset_type": "background",
+      "sourceId": "ad26d0d1-62cc-4bed-9488-e334c73212f3",
+      "metadata": {
+        "width": 1360,
+        "height": 768,
+        "format": "webp"
+      }
+    }
+  }
+}

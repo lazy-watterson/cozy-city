@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Game Title</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <canvas id="gameCanvas"></canvas>  <!-- No width/height - Display handles it -->
+    <section id="loadingScreen" class="loading-screen" aria-live="polite" aria-label="Loading game">
+      <div class="loading-card">
+        <h1>Opening the city</h1>
+        <p id="loadingLabel">Preparing the city map…</p>
+        <progress id="loadingProgress" max="100" value="0">0%</progress>
+      </div>
+    </section>
+  </div>
+
+  <script type="module" src="src/main.ts"></script>
+</body>
+</html>
